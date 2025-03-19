@@ -194,13 +194,13 @@ function App() {
             stagger={0.03}>Project Glimpses</ScrollFloat></h2>
           <div className="grid md:grid-cols-3 gap-8 mb-12 ">
             <div className="aspect-video rounded-xl overflow-hidden transition-transform duration-300 hover:scale-110">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/fDcxTE4cAhU?si=ap_LPDt4QGj99tOC" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe width="400" height="220"src="https://www.youtube.com/embed/fDcxTE4cAhU?si=ap_LPDt4QGj99tOC" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
             <div className="aspect-video rounded-xl overflow-hidden transition-transform duration-100 hover:scale-110">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/Uon5elENr5g?si=4ho3pigrey1gZvbu" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe width="400" height="220" src="https://www.youtube.com/embed/Uon5elENr5g?si=4ho3pigrey1gZvbu" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
             <div className="aspect-video rounded-xl overflow-hidden transition-transform duration-300 hover:scale-110">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/LZJJOz8kAlE?si=iyBuI-l8jqmQLYTV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>            </div>
+            <iframe width="400" height="220" src="https://www.youtube.com/embed/LZJJOz8kAlE?si=iyBuI-l8jqmQLYTV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>            </div>
           </div>
           <div className="text-center">
             <a 
