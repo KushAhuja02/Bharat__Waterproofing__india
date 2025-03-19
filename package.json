@@ -2,4 +2,7 @@
   "dependencies": {
     "@react-spring/web": "^9.7.5"
   }
+  "scripts": {
+  "build": "your_build_command_here"
+}
 }
